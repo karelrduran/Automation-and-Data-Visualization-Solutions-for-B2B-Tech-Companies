@@ -3,16 +3,15 @@
 [![OpenAI](https://img.shields.io/badge/OpenAI-2CA5E0?style=for-the-badge&logo=OpenAI&logoColor=Green)](https://openai.com/)
 [![Plotly](https://img.shields.io/badge/Plotly-2CA5E0?style=for-the-badge&logo=Plotly&logoColor=White)](https://plotly.com/)
 
-
 <h1 align="center">Automation and Data Visualization Solutions for B2B Tech Companies</h1>
 
 ## Table of Contents
+
 - [Table of Contents](#table-of-contents)
 - [Overview](#overview)
 - [How to Use](#how-to-use)
 - [Project structure](#project-structure)
 - [Personal situation](#personal-situation)
-
 
 ## Overview
 
@@ -35,50 +34,60 @@ It is important to note that the company reports used in the system are fictitio
 ## How to Use
 
 1. **Clone the repository**
-    ```bash
-    git clone https://github.com/karelrduran/higrowth.git 
-    ```
+   
+   ```bash
+   git clone https://github.com/karelrduran/Automation-and-Data-Visualization-Solutions-for-B2B-Tech-Companies.git
+   ```
 
 2. **Install the dependencies**
-    ```bash
-    cd higrowth
-    pip install -r requirements.txt 
-    ```
-3. **Create an account on <a href="https://openai.com/">OpenAI</a> and obtain your `openai_api_key`.**
+   
+   ```bash
+   cd Automation-and-Data-Visualization-Solutions-for-B2B-Tech-Companies
+   pip install -r requirements.txt 
+   ```
 
+3. **Create an account on <a href="https://openai.com/">OpenAI</a> and obtain your `openai_api_key`.**
 
 4. **Create a secrets.tmol file to store your `openai_api_key`. <a href="https://docs.streamlit.io/develop/api-reference/connections/secrets.toml">How to use streamlit secrets.tmol file</a>**
 
-
 5. **Run the following command from the terminal to start you web application.**
-    ```bash
-    streamlit run Dashboard.py
-    ```
-    
+   
+   ```bash
+   streamlit run Dashboard.py
+   ```
+
 ## Project structure
 
 **streamlit_app**
+
 - **data/**
-    - json/:&#9;Contains the json output files generated when call OpenAI API
-    - reports/:&#9;Contains the dummy reports used as input to the application
+  
+  - json/:&#9;Contains the json output files generated when call OpenAI API
+  - reports/:&#9;Contains the dummy reports used as input to the application
 
 - **Page Parts/**:&#9;Streamlit modules used to generate the pages
+
 - **Pages/**:&#9;Streamlit pages
+  
   - **Generate_json_reports.py**:&#9;Streamlit page to generate json reports
+
 - **Schemas/**:&#9;Pydantic models for ChatGPT response parsing
+
 - **src/**:&#9;Contains auxiliary functions used in the project
-    - **openai_utils.py**:&#9;Communication with the OPENAI API
-    
+  
+  - **openai_utils.py**:&#9;Communication with the OPENAI API
+
 - **Dashboard.py**:&#9;Streamlit application entry point
 
 - **README.md**:&#9;This file you are reading, providing information about the project structure and how to navigate it
 
 - **requirements.txt**:&#9;List of project dependencies to facilitate package installation
 
-
 ## Personal situation
+
 While doing this project I was part of the ARAI6 group of the <a href="https://becode.org/all-trainings/pedagogical-framework-ai-data-science/">AI Bootcamp</a> training organized by <a href="https://becode.org/">BeCode</a> in Ghent.
 
 ---
+
 <img src="https://avatars.githubusercontent.com/u/106887418?s=400&u=82192b481d8f03c3eaad34ca2bd67889fce6a0c2&v=4" width=115><br>
 <sub><a href="https://www.linkedin.com/in/karel-rodriguez-duran/">LinkedIn - Karel Rodríguez Durán</a></sub>
