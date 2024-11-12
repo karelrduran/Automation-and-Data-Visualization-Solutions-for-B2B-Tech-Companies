@@ -1,0 +1,132 @@
+{
+    "companies": [
+        {
+            "name": "EcoBites",
+            "campaigns": [
+                {
+                    "name": "EcoDelights",
+                    "description": "Improved perception of sustainability and taste",
+                    "year": 2022,
+                    "investment": 400000,
+                    "ROI": 1.35,
+                    "sales_increase_percent": 0.28,
+                    "social_media_reach": 1600000,
+                    "success_rate": 0.41
+                },
+                {
+                    "name": "Natural Flavors",
+                    "description": "Consolidating brand image",
+                    "year": 2021,
+                    "investment": 350000,
+                    "ROI": 1.3,
+                    "sales_increase_percent": 0.25,
+                    "social_media_reach": 1400000,
+                    "success_rate": 0.39
+                }
+            ],
+            "total_investment": 750000,
+            "total_return": 875000,
+            "total_successes": 7000,
+            "total_failures": 5000,
+            "total_success_rate": 0.58,
+            "overall_ROI": 1.17,
+            "recommendations": "For EcoBites: Both campaigns in 2021 and 2022 have shown positive ROI and success rates. Consider further investment in marketing campaigns."
+        },
+        {
+            "name": "GreenSnacks",
+            "campaigns": [
+                {
+                    "name": "Naturally Delicious",
+                    "description": "Significant increase in brand visibility",
+                    "year": 2022,
+                    "investment": 500000,
+                    "ROI": 1.5,
+                    "sales_increase_percent": 0.3,
+                    "social_media_reach": 2000000,
+                    "success_rate": 0.45
+                },
+                {
+                    "name": "Green Snacks for Everyone",
+                    "description": "Consolidating online presence",
+                    "year": 2021,
+                    "investment": 350000,
+                    "ROI": 1.3,
+                    "sales_increase_percent": 0.25,
+                    "social_media_reach": 1500000,
+                    "success_rate": 0.4
+                }
+            ],
+            "total_investment": 1200000,
+            "total_return": 1425000,
+            "total_successes": 8800,
+            "total_failures": 7200,
+            "total_success_rate": 0.55,
+            "overall_ROI": 1.42,
+            "recommendations": "For GreenSnacks: Both campaigns in 2021 and 2022 have been successful. Consider maintaining a similar marketing strategy."
+        },
+        {
+            "name": "HealthyCrunch",
+            "campaigns": [
+                {
+                    "name": "Crunchy and Healthy",
+                    "description": "Improved audience engagement",
+                    "year": 2022,
+                    "investment": 450000,
+                    "ROI": 1.4,
+                    "sales_increase_percent": 0.28,
+                    "social_media_reach": 1800000,
+                    "success_rate": 0.43
+                },
+                {
+                    "name": "Health in Every Bite",
+                    "description": "Improved visibility and sales",
+                    "year": 2021,
+                    "investment": 400000,
+                    "ROI": 1.35,
+                    "sales_increase_percent": 0.26,
+                    "social_media_reach": 1600000,
+                    "success_rate": 0.42
+                }
+            ],
+            "total_investment": 830000,
+            "total_return": 975000,
+            "total_successes": 8500,
+            "total_failures": 6500,
+            "total_success_rate": 0.57,
+            "overall_ROI": 1.37,
+            "recommendations": "For HealthyCrunch: Both campaigns in 2021 and 2022 have demonstrated effectiveness. Focus on sustaining this marketing success."
+        },
+        {
+            "name": "PureSnack",
+            "campaigns": [
+                {
+                    "name": "Pure Flavor",
+                    "description": "Improved perception of purity",
+                    "year": 2022,
+                    "investment": 470000,
+                    "ROI": 1.45,
+                    "sales_increase_percent": 0.29,
+                    "social_media_reach": 1900000,
+                    "success_rate": 0.44
+                },
+                {
+                    "name": "Snacks without Compromise",
+                    "description": "Enhanced consumer loyalty",
+                    "year": 2021,
+                    "investment": 390000,
+                    "ROI": 1.33,
+                    "sales_increase_percent": 0.27,
+                    "social_media_reach": 1600000,
+                    "success_rate": 0.41
+                }
+            ],
+            "total_investment": 860000,
+            "total_return": 1022500,
+            "total_successes": 8500,
+            "total_failures": 5900,
+            "total_success_rate": 0.59,
+            "overall_ROI": 1.39,
+            "recommendations": "For PureSnack: Focus on maintaining consumer loyalty and perception of product purity. Invest in campaigns with similar themes."
+        }
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "companies": [
+        {
+            "name": "EcoBites",
+            "campaigns": [
+                {
+                    "name": "EcoDelights",
+                    "description": "Improved perception of sustainability and taste",
+                    "year": 2022,
+                    "investment": 400000,
+                    "ROI": 1.35,
+                    "sales_increase_percent": 28,
+                    "social_media_reach": 1600000,
+                    "success_rate": 0.41
+                },
+                {
+                    "name": "Natural Flavors",
+                    "description": "Consolidating brand as health and environment committed",
+                    "year": 2021,
+                    "investment": 350000,
+                    "ROI": 1.3,
+                    "sales_increase_percent": 25,
+                    "social_media_reach": 1400000,
+                    "success_rate": 0.39
+                }
+            ],
+            "total_investment": 750000,
+            "total_return": 1080000,
+            "total_successes": 530000,
+            "total_failures": 220000,
+            "total_success_rate": 0.7066666667,
+            "overall_ROI": 1.2866666667,
+            "recommendations": "For EcoBites: Campaign EcoDelights has higher ROI and success rate. Allocate more budget towards campaigns similar to EcoDelights."
+        },
+        {
+            "name": "GreenSnacks",
+            "campaigns": [
+                {
+                    "name": "Naturally Delicious",
+                    "description": "Increase in brand visibility and sales",
+                    "year": 2022,
+                    "investment": 500000,
+                    "ROI": 1.5,
+                    "sales_increase_percent": 30,
+                    "social_media_reach": 2000000,
+                    "success_rate": 0.45
+                },
+                {
+                    "name": "Green Snacks for Everyone",
+                    "description": "Consolidating online presence",
+                    "year": 2021,
+                    "investment": 350000,
+                    "ROI": 1.3,
+                    "sales_increase_percent": 25,
+                    "social_media_reach": 1500000,
+                    "success_rate": 0.4
+                }
+            ],
+            "total_investment": 1150000,
+            "total_return": 1650000,
+            "total_successes": 700000,
+            "total_failures": 450000,
+            "total_success_rate": 0.6086956522,
+            "overall_ROI": 1.4065217391,
+            "recommendations": "For GreenSnacks: Campaign Naturally Delicious has higher ROI and success rate. Allocate more budget towards campaigns similar to Naturally Delicious."
+        },
+        {
+            "name": "HealthyCrunch",
+            "campaigns": [
+                {
+                    "name": "Crunchy and Healthy",
+                    "description": "Improved audience engagement and sales increase",
+                    "year": 2022,
+                    "investment": 450000,
+                    "ROI": 1.4,
+                    "sales_increase_percent": 28,
+                    "social_media_reach": 1800000,
+                    "success_rate": 0.43
+                },
+                {
+                    "name": "Health in Every Bite",
+                    "description": "Improving visibility and sales",
+                    "year": 2021,
+                    "investment": 400000,
+                    "ROI": 1.35,
+                    "sales_increase_percent": 26,
+                    "social_media_reach": 1600000,
+                    "success_rate": 0.42
+                }
+            ],
+            "total_investment": 850000,
+            "total_return": 1200000,
+            "total_successes": 540000,
+            "total_failures": 310000,
+            "total_success_rate": 0.6352941176,
+            "overall_ROI": 1.3882352941,
+            "recommendations": "For HealthyCrunch: Campaign Crunchy and Healthy has higher ROI and success rate. Allocate more budget towards campaigns similar to Crunchy and Healthy."
+        },
+        {
+            "name": "PureSnack",
+            "campaigns": [
+                {
+                    "name": "Pure Flavor",
+                    "description": "Improved perception of purity and naturalness",
+                    "year": 2022,
+                    "investment": 470000,
+                    "ROI": 1.45,
+                    "sales_increase_percent": 29,
+                    "social_media_reach": 1900000,
+                    "success_rate": 0.44
+                },
+                {
+                    "name": "Snacks without Compromise",
+                    "description": "Improving consumer loyalty",
+                    "year": 2021,
+                    "investment": 390000,
+                    "ROI": 1.33,
+                    "sales_increase_percent": 27,
+                    "social_media_reach": 1600000,
+                    "success_rate": 0.41
+                }
+            ],
+            "total_investment": 860000,
+            "total_return": 1171000,
+            "total_successes": 560000,
+            "total_failures": 300000,
+            "total_success_rate": 0.6511627907,
+            "overall_ROI": 1.3558139535,
+            "recommendations": "For PureSnack: Campaign Pure Flavor has higher ROI and success rate. Allocate more budget towards campaigns similar to Pure Flavor."
+        }
+    ]
+}

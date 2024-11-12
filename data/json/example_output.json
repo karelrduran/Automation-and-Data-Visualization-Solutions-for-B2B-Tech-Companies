@@ -1,0 +1,68 @@
+{
+    "companies": [
+        {
+            "name": "Company A",
+            "campaigns": [
+                {
+                    "name": "Campaign A1",
+                    "description": "",
+                    "year": 2022,
+                    "investment": 10000,
+                    "ROI": 1.2,
+                    "sales_increase_percent": null,
+                    "social_media_reach": null,
+                    "success_rate": 0.3
+                },
+                {
+                    "name": "Campaign A2",
+                    "description": "",
+                    "year": 2023,
+                    "investment": 5000,
+                    "ROI": 0.8,
+                    "sales_increase_percent": null,
+                    "social_media_reach": null,
+                    "success_rate": 0.2
+                }
+            ],
+            "total_investment": 15000,
+            "total_return": 18000,
+            "total_successes": 5000,
+            "total_failures": 10000,
+            "total_success_rate": 0.25,
+            "overall_ROI": 0.2,
+            "recommendations": "For Company A: Campaign A1 has a higher ROI and success rate compared to Campaign A2. Allocate more budget towards campaigns similar to Campaign A1."
+        },
+        {
+            "name": "Company B",
+            "campaigns": [
+                {
+                    "name": "Campaign B1",
+                    "description": "",
+                    "year": 2022,
+                    "investment": 20000,
+                    "ROI": 1.5,
+                    "sales_increase_percent": null,
+                    "social_media_reach": null,
+                    "success_rate": 0.4
+                },
+                {
+                    "name": "Campaign B2",
+                    "description": "",
+                    "year": 2023,
+                    "investment": 10000,
+                    "ROI": 0.9,
+                    "sales_increase_percent": null,
+                    "social_media_reach": null,
+                    "success_rate": 0.3
+                }
+            ],
+            "total_investment": 30000,
+            "total_return": 35000,
+            "total_successes": 9000,
+            "total_failures": 11000,
+            "total_success_rate": 0.45,
+            "overall_ROI": 0.3,
+            "recommendations": "For Company B: Campaign B1 has a higher ROI and success rate compared to Campaign B2. Allocate more budget towards campaigns similar to Campaign B1."
+        }
+    ]
+}

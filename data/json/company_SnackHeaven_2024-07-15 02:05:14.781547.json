@@ -1,0 +1,132 @@
+{
+    "companies": [
+        {
+            "name": "SnackHeaven",
+            "campaigns": [
+                {
+                    "name": "Heavenly Bites",
+                    "description": "Boosted awareness and increased sales",
+                    "year": 2023,
+                    "investment": 520000,
+                    "ROI": 1.52,
+                    "sales_increase_percent": 0.32,
+                    "social_media_reach": 2100000,
+                    "success_rate": 0.48
+                },
+                {
+                    "name": "Delightful Flavors",
+                    "description": "Strengthened brand's image as committed to health",
+                    "year": 2022,
+                    "investment": 300000,
+                    "ROI": 1.25,
+                    "sales_increase_percent": 0.22,
+                    "social_media_reach": 1300000,
+                    "success_rate": 0.35
+                }
+            ],
+            "total_investment": 820000,
+            "total_return": 1184000,
+            "total_successes": 0,
+            "total_failures": 0,
+            "total_success_rate": 0,
+            "overall_ROI": 0,
+            "recommendations": "For SnackHeaven: Both campaigns showed positive ROI. Continue investing in marketing campaigns to drive sales and brand visibility."
+        },
+        {
+            "name": "CrunchyDelights",
+            "campaigns": [
+                {
+                    "name": "Crunch Time",
+                    "description": "Significant increase in brand visibility and sales",
+                    "year": 2023,
+                    "investment": 600000,
+                    "ROI": 1.6,
+                    "sales_increase_percent": 0.35,
+                    "social_media_reach": 2500000,
+                    "success_rate": 0.5
+                },
+                {
+                    "name": "Deliciously Crunchy",
+                    "description": "Building online presence",
+                    "year": 2022,
+                    "investment": 270000,
+                    "ROI": 1.22,
+                    "sales_increase_percent": 0.2,
+                    "social_media_reach": 1200000,
+                    "success_rate": 0.33
+                }
+            ],
+            "total_investment": 870000,
+            "total_return": 1291000,
+            "total_successes": 0,
+            "total_failures": 0,
+            "total_success_rate": 0,
+            "overall_ROI": 0,
+            "recommendations": "For CrunchyDelights: Campaign 'Crunch Time' in 2023 performed exceptionally well. Consider focusing on similar impactful campaigns."
+        },
+        {
+            "name": "NatureCrunch",
+            "campaigns": [
+                {
+                    "name": "Nature's Delight",
+                    "description": "Improved engagement and sales increase",
+                    "year": 2023,
+                    "investment": 480000,
+                    "ROI": 1.45,
+                    "sales_increase_percent": 0.31,
+                    "social_media_reach": 2200000,
+                    "success_rate": 0.46
+                },
+                {
+                    "name": "Healthy Munchies",
+                    "description": "Improving visibility and sales",
+                    "year": 2022,
+                    "investment": 390000,
+                    "ROI": 1.29,
+                    "sales_increase_percent": 0.27,
+                    "social_media_reach": 1800000,
+                    "success_rate": 0.4
+                }
+            ],
+            "total_investment": 870000,
+            "total_return": 1249000,
+            "total_successes": 0,
+            "total_failures": 0,
+            "total_success_rate": 0,
+            "overall_ROI": 0,
+            "recommendations": "For NatureCrunch: Both campaigns in 2022 and 2023 showed positive ROI. Continue focusing on engaging campaigns to drive sales."
+        },
+        {
+            "name": "PureMunch",
+            "campaigns": [
+                {
+                    "name": "Pure Taste",
+                    "description": "Enhanced perception of product purity and flavor",
+                    "year": 2023,
+                    "investment": 500000,
+                    "ROI": 1.6,
+                    "sales_increase_percent": 0.34,
+                    "social_media_reach": 2300000,
+                    "success_rate": 0.5
+                },
+                {
+                    "name": "Snacks without Compromise",
+                    "description": "Boosting consumer loyalty",
+                    "year": 2022,
+                    "investment": 340000,
+                    "ROI": 1.28,
+                    "sales_increase_percent": 0.25,
+                    "social_media_reach": 1600000,
+                    "success_rate": 0.42
+                }
+            ],
+            "total_investment": 840000,
+            "total_return": 1192000,
+            "total_successes": 0,
+            "total_failures": 0,
+            "total_success_rate": 0,
+            "overall_ROI": 0,
+            "recommendations": "For PureMunch: Both campaigns demonstrated positive results in ROI and sales. Maintain the high standard of product messaging in future campaigns."
+        }
+    ]
+}
