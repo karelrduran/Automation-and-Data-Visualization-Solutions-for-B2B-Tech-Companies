@@ -4,6 +4,9 @@
 [![Plotly](https://img.shields.io/badge/Plotly-2CA5E0?style=for-the-badge&logo=Plotly&logoColor=White)](https://plotly.com/)
 
 <h1 align="center">Automation and Data Visualization Solutions for B2B Tech Companies</h1>
+<p align="center">
+    <img src="data/img/banner.png">
+</p>
 
 ## Table of Contents
 

@@ -128,7 +128,7 @@ st.markdown(
 st.markdown(
     """
     <div class="footer">
-        <p>© 2024 Higrowth. All rights reserved.</p>
+        <p>© 2024 krduran@ - All rights reserved.</p>
     </div>
     """,
     unsafe_allow_html=True
